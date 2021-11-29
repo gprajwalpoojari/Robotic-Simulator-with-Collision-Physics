@@ -30,3 +30,8 @@ Here is an example simulation:
 https://user-images.githubusercontent.com/53962958/143908937-f4b58cdf-7e13-44aa-9e0a-8d74fbbd6fd5.mp4
 
 
+
+
+##References
+
+https://robotics.umich.edu/academic-program/courses/rob599-f19/homework2/
