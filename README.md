@@ -13,6 +13,6 @@ The environment has been implemented from scratch using a bitmap image. This ima
 
 The environment looks like the following:
 
-![](Initialize_world.bmp)
+![](images/Initialize_world.bmp)
 
 A collision detection code also checks for collision at each time step. Once the robot collides with the light source, the terminal window displays "collision!" indicating that the robot has collided with the light source.
