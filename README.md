@@ -18,9 +18,11 @@ The environment looks like the following:
 A collision detection code also checks for collision at each time step. Once the robot collides with the light source, the terminal window displays "collision!" indicating that the robot has collided with the light source.
 
 To run the code, type the following command:
+
 ./braitenberg <timestep> <fast=0|1>
   
 Here is an example simulation:
+  
 ./braitenberg 500 0
 
 https://user-images.githubusercontent.com/53962958/143908937-f4b58cdf-7e13-44aa-9e0a-8d74fbbd6fd5.mp4
