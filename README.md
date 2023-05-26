@@ -1,4 +1,4 @@
-# Robotic_Simulator_with_Collision_Physics
+# Robotic Simulator with Graphics and Collision Physics
 
 ## Demo
 ![simulator](https://github.com/gprajwalpoojari/Robotic_Simulator_with_Collision_Physics/assets/53962958/de21c61d-d099-43c3-b95c-b666eafea226)
